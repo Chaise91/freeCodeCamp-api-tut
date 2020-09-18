@@ -15,3 +15,5 @@ MongoClient.connect(db.url, (err, db) => {
     console.log("we are live on " + port)
   })
 })
+
+/* Adding a comment to test git */
